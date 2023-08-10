@@ -1,6 +1,8 @@
 # TradeShowDisplay-Pi
 Trade Show Display based on Raspberry Pi and Anthias Digital Signage
 
+Modular 80mm x 80mm square hole pattern allows for customization using single display design
+
 ![Display Example](images/display_example.png)
 
 ![Under Display](images/display_under.png)
@@ -9,6 +11,10 @@ Trade Show Display based on Raspberry Pi and Anthias Digital Signage
 1. Raspberry Pi 4
 2. 7-Inch 1024x600 Screen [https://www.amazon.com/gp/product/B09XKC53NH](https://www.amazon.com/gp/product/B09XKC53NH)
 3. 3D Printed Display (STEP Included)
+4. M 2.5 Tapered Heat-Set Inserts
+  * [https://www.mcmaster.com/94180A321/](https://www.mcmaster.com/94180A321/)
+5. M 2.5 Screws
+  * [https://www.mcmaster.com/92000A103/](https://www.mcmaster.com/92000A103/)
 
 # Raspberry Pi Installation Instructions
 1. Install Raspberry Pi OS Lite onto SD Card using Raspberry Pi Imager
