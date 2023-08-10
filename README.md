@@ -5,7 +5,7 @@ Trade Show Display based on Raspberry Pi and Anthias Digital Signage
 
 ![Under Display](images/display_under.png)
 
-* Bill of Materials (BoM)
+# Bill of Materials (BoM)
 1. Raspberry Pi 4
 2. 7-Inch 1024x600 Screen [https://www.amazon.com/gp/product/B09XKC53NH](https://www.amazon.com/gp/product/B09XKC53NH)
 3. 3D Printed Display (STEP Included)
