@@ -3,9 +3,9 @@ Trade Show Display based on Raspberry Pi and Anthias Digital Signage
 
 Modular 80mm x 80mm square hole pattern allows for customization using single display design
 
-![Display Example](images/display_example.png)
-
-![Under Display](images/display_under.png)
+![Display Example 1](images/Display1.jpeg)
+![Display Example 2](images/Display2.jpeg)
+![Display Example 3](images/Display3.jpeg)
 
 # Bill of Materials (BoM)
 1. Raspberry Pi 4
